@@ -1,0 +1,7 @@
+### This is a document
+with one section
+## Two sections
+
+And they're probably inversely stacked.
+
+# Three sections
