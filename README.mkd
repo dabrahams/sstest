@@ -1,7 +1,7 @@
-### This is a document
+# This is a document
 with one section
 ## Two sections
 
-And they're probably inversely stacked.
+And they're properly stacked now
 
-# Three sections
+### Three sections
